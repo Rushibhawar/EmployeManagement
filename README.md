@@ -19,16 +19,41 @@
 
 ## Screenshots
 
-![2022-11-22 (16)](https://user-images.githubusercontent.com/93855806/203378798-0c4d6708-7c31-4cb5-9822-1c23296d584b.png)
 
-![2022-11-22 (17)](https://user-images.githubusercontent.com/93855806/203378836-e5fd41d8-3cf3-49ee-9535-99a630b7278e.png)
+### Employee Homepage
+![2022-11-22 (22)](https://user-images.githubusercontent.com/93855806/203379907-4fc8c8ba-692b-4e9d-b259-d0a1c51a57e9.png)
 
-![2022-11-22 (18)](https://user-images.githubusercontent.com/93855806/203378887-2b79d67a-20dd-4fc1-a606-daed7b877418.png)
 
-![2022-11-22 (19)](https://user-images.githubusercontent.com/93855806/203378932-41627f06-1dd6-461d-b415-2cd4263a5c89.png)
+### Search Employee
+![2022-11-22 (23)](https://user-images.githubusercontent.com/93855806/203379967-664f2d73-3d3f-4094-8ce5-48ecb0103596.png)
 
-![2022-11-22 (20)](https://user-images.githubusercontent.com/93855806/203378968-489f2657-8f50-407c-9ceb-be5e3ff28c28.png)
 
-![2022-11-22 (21)](https://user-images.githubusercontent.com/93855806/203379027-112c6f8f-6eb2-4554-8f47-77113a575f8e.png)
+### Add Employee popup
+![2022-11-22 (24)](https://user-images.githubusercontent.com/93855806/203380011-357f4a3f-d950-4dfe-ba72-926b4390f851.png)
+
+
+### Select Employee ID
+![2022-11-22 (25)](https://user-images.githubusercontent.com/93855806/203380034-77556c3a-1775-4efc-a79c-c15f4ce7cef9.png)
+
+
+### Add Employee Details
+![2022-11-22 (26)](https://user-images.githubusercontent.com/93855806/203380057-5ba54a34-2461-4dbf-bcab-233bb6d76339.png)
+
+
+### Employees Added Alert Box
+![2022-11-22 (27)](https://user-images.githubusercontent.com/93855806/203380092-0ef782c4-6147-48c9-8192-6166348cf9a3.png)
+
+
+### Update Employee details
+![2022-11-22 (28)](https://user-images.githubusercontent.com/93855806/203380113-26cc39ee-c588-4006-a2f4-5a684df7a609.png)
+
+
+
+
+
+
+
+
+
 
 
