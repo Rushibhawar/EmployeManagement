@@ -44,7 +44,7 @@
 ![2022-11-22 (27)](https://user-images.githubusercontent.com/93855806/203380092-0ef782c4-6147-48c9-8192-6166348cf9a3.png)
 
 
-### Update Employee details
+### Updated Employee details
 ![2022-11-22 (28)](https://user-images.githubusercontent.com/93855806/203380113-26cc39ee-c588-4006-a2f4-5a684df7a609.png)
 
 
