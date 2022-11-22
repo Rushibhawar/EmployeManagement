@@ -46,25 +46,4 @@ public class SaveEmployee extends HttpServlet {
 		
 	}
 	
-	public static Employee getemployees() {
-		
-		try {
-			Class.forName("com.mysql.cj.jdbc.Driver");
-			
-			Connection con = ConnectionProvider.createConnection();
-			String query = "SELECT * FROM empdetails";
-			PreparedStatement pstmt1 = con.prepareStatement(query);
-			ResultSet set = pstmt1.executeQuery();
-			
-			
-		} catch (Exception e) {
-			// TODO: handle exception
-			System.out.println("inside Saveuser in getemployees()");
-			e.printStackTrace();
-		}
-		
-		return null;
-		
-	}
-
 }
